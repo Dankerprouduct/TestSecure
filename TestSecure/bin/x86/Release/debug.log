@@ -1,0 +1,51 @@
+[0825/095928.607:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0825/095929.007:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0825/095929.142:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/095929.146:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/095929.189:INFO:CONSOLE(0)] "Application Cache Error event: Manifest fetch failed (6) https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/095930.843:INFO:CONSOLE(1)] "Uncaught Error: You're trying to decode an invalid JSON String: ", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0825/095930.844:INFO:CONSOLE(1)] "Uncaught Error: You're trying to decode an invalid JSON String: ", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0825/095930.990:INFO:CONSOLE(1)] "Uncaught Error: You're trying to decode an invalid JSON String: ", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0825/095930.994:INFO:CONSOLE(1)] "Uncaught Error: You're trying to decode an invalid JSON String: ", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0825/095931.026:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0825/095933.612:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0825/121227.035:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0825/121227.423:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121227.426:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121227.669:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121229.586:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0825/121245.742:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0825/121246.153:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121246.154:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121246.492:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121248.386:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0825/121724.389:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0825/121724.689:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121724.690:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121724.872:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0825/121726.940:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0921/123917.446:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0921/123920.779:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/123920.779:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/123922.017:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/123926.475:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0921/124111.970:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0921/124112.729:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/124112.730:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/124113.196:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/124115.474:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0921/124745.891:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0921/124746.799:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/124746.800:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/124746.995:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/124749.168:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0921/131010.442:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0921/131011.314:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/131011.315:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/131011.460:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/131013.265:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
+[0921/132356.908:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0921/132357.738:INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://fcs.schoolspire.com/desktopApp/cache.appcache", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/132357.738:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/132357.899:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://fcs.schoolspire.com/desktopApp/#home (0)
+[0921/132359.583:INFO:CONSOLE(1)] "Uncaught (in promise) undefined", source: https://fcs.schoolspire.com/desktopApp/app.js?_dc=20170730141423 (1)
